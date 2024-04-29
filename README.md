@@ -2,7 +2,7 @@
 
 Técnico em Desenvolvimento de Sistemas estudando Análise e Desenolvimento de Sistemas na FATEC e Cibersegurança de forma autodidata
 
-- ⚙️ Me especializando em **.py**, **.sql** **.css**
+- ⚙️ Me especializando em Python, MySQL, PHP e HTML/CSS
 - 💬 Atualmente trabalhando como professor de inglês
 - ⚡ Foco em backend e análise de dados
 
