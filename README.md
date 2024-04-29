@@ -1,5 +1,12 @@
-### Hi there 👋
+### Olá 👋
 
+Técnico em Desenvolvimento de Sistemas estudando Análise e Desenolvimento de Sistemas na FATEC e Cibersegurança de forma autodidata
+
+- ⚙️ Me especializando em **.py**, **.sql** **.css**
+- 💬 Atualmente trabalhando como professor de inglês
+- ⚡ Foco em backend e análise de dados
+
+- 📫 Entre em contato através do email juliosandoli1104@gmail.com ou via linkedin /in/juliosandoli
 <!--
 **jsandoli/jsandoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
