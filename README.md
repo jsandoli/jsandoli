@@ -6,7 +6,7 @@ Técnico em Desenvolvimento de Sistemas estudando Análise e Desenolvimento de S
 - 💬 Atualmente trabalhando como professor de inglês
 - ⚡ Foco em backend e análise de dados
 
-- 📫 Entre em contato através do email juliosandoli1104@gmail.com ou via linkedin /in/juliosandoli
+- 📫 Contato através do email juliosandoli1104@gmail.com ou via linkedin /in/juliosandoli
 <!--
 **jsandoli/jsandoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
